@@ -19,7 +19,7 @@ Tuesday the 23th of februrary I went to my university to put up posters and reco
 
 ## Stage 1 - Website with hidden message in a photo
 
-The best way to reach people at my university anonymously was through the app Jodel, and that's were it all started. I posted a link to my newly created website [ifimysteriet.com](ifimysteriet.com) which lead to a website containing a PGP key and an image. This had a text file embedded inside of it, hidden using openstego...
+The best way to reach people at my university anonymously was through the app Jodel, and that's were it all started. I posted a link to my newly created website [ifimysteriet.com](ifimysteriet.com) which lead to a website containing a PGP key (I don't know why I included that tbh. Makes no snese) and an image. This had a text file embedded inside of it, hidden using openstego...
 
 ```txt
 dccde3a5b7cp6gebdehjxeyj5e2n27delyvgy2ctxbsprvx7cxcvm6ad.løk
