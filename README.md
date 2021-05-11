@@ -1,6 +1,6 @@
 # IfI-mysteriet 🐧
 
-*This long ass text was written in one go. Expect bad grammar and weird ass sentences :)*
+*This long ass text was written in one go, and I'm too lazy to correct it at the moment. Expect bad grammar and weird ass sentences :)*
 
 A failed attempt at making a cicada 3301 style puzzle at my university. The planning and setup of this project started at the end of february 2021.
 The ARG ran for around 3 weeks starting at february 25th.
