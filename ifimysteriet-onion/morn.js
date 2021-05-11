@@ -1,0 +1,2 @@
+console.log(`Om du lurte, ja dette er basically bare en kopi av you know what, men jeg er egentlig ganske dum så jeg klarer ikke å gjøre noe orginalt.
+Det er mange normies her tross alt så det går fint. Da har du større sjanse til å vinne premien.`);
