@@ -34,7 +34,9 @@ These decoys were:
 - CSS comments
 - Image size (420x690px)
 
------image-----
+![image](https://user-images.githubusercontent.com/24893890/117750836-647dfb00-b214-11eb-95a7-551564a4908e.png) ![image](https://user-images.githubusercontent.com/24893890/117750906-811a3300-b214-11eb-9023-0d6b036c2654.png)
+![image](https://user-images.githubusercontent.com/24893890/117750955-97c08a00-b214-11eb-9590-e5733860e5b4.png)
+
 
 I didn't plan on saying anything but I felt like I was forced to due to people being confused.
 
@@ -56,13 +58,13 @@ vil du finne meg
 
 Since there was radio silence and the puzzle game had effectively died of already at this point I decided to post the message on Jodel the week after starting the puzzle.
 
------image-----
+![image](https://user-images.githubusercontent.com/24893890/117751074-c3437480-b214-11eb-87f8-e115127f8a38.png)
 
 This time people actually got what I was trying to say. The riddle lead to a IRL poster that I had hung up at the wall right by the classroom named "Assembler"
 
 ## Stage 3 - The first poster
 
------image-----
+![image](https://user-images.githubusercontent.com/24893890/117751106-d1919080-b214-11eb-8823-58e79797d360.png)
 
 The poster had a QR code attached to it which contained a [pastebin link](https://pastebin.com/raw/mFThC3ft) containing the following text:
 
@@ -81,13 +83,13 @@ The korean text is a norwegian sentences written with hangul characters to the b
 
 In order to decode the hex numbers you need to do a bitwise or operation on the two sets. This will output an url, `olejohandahlfanpage.me`. Creating this part of the puzzle was the most time consuming part of the puzzle since I did this all by hand. I knew which binary code I had to end up with, but had to create two random sets of numbers that would output correctly.
 
------image-----
+![foto_no_exif](https://user-images.githubusercontent.com/24893890/117751333-34832780-b215-11eb-9adb-4f420a33df14.jpg)
 
 Yeah, 5 pages of this shit. Let's just say I was tired of looking at ones and zeroes at this point.
 
 Even though people were able to solve my so-called riddle it did not lead to any attention and things went radio silent again. I had to once again post the solution as a last resort of saving this project.
 
------image-----
+![image](https://user-images.githubusercontent.com/24893890/117751453-701df180-b215-11eb-860f-61fb9b3c3062.png)
 
 ## Stage 4 - The SSH-able machine
 
@@ -105,7 +107,7 @@ The poster's QR code lead to a vocaroo file containing an audio file. This audio
 
 The first message is found by slowing and pitching the audio down. Not that complicated. This resulted in a message telling you to send a set of numbers to an e-mail address. Which address? The way to find out was to pass the file through Coagula, a program that enables you to draw the waveforms yourself. By looking at these waveforms you could read the address, `anon@ifimystseriet.com`.
 
------image-----
+![image](https://user-images.githubusercontent.com/24893890/117751476-7ad88680-b215-11eb-8f65-5391aab4d4c8.png)
 
 This isn't the original waveform but I was too lazy to look up the final waveform. This is just an early experimental version using another address.
 
